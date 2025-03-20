@@ -43,8 +43,8 @@ I'm a **Front-End Developer** with 1 year of professional experience specializin
 ## 🤝 Connect with Me
 
 - **Email:** [Sashena203@gmail.com](mailto:Sashena203@gmail.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/soheyl-ashena)
-- **Portfolio:** [Your Portfolio URL](https://SoheylAshena.github.io)
+- **LinkedIn:** [Link](https://www.linkedin.com/in/soheyl-ashena)
+- **Portfolio:** [Link](https://SoheylAshena.github.io)
 
 <!-- Add any additional sections like blog posts, awards, or fun facts here -->
 
