@@ -1,6 +1,6 @@
 # Hi there, I'm Soheyl Ashena 👋
 
-I'm a **Front-End Developer** with 1 year of professional experience specializing in building responsive, high-performance web applications using **React**, **Next.js**, and other modern libraries.
+I'm a **Front-End Developer** with 2 year of professional experience specializing in building responsive, high-performance web applications using **React**, **Next.js**, and other modern libraries.
 
 ## 🔥 About Me
 
@@ -12,19 +12,19 @@ I'm a **Front-End Developer** with 1 year of professional experience specializin
 ## 🚀 Tech Stack
 
 - **Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS3
-- **Frameworks & Libraries:** React.js, Next.js, Redux, Tailwind CSS, Bootstrap, Material-UI
+- **Frameworks & Libraries:** React.js, Next.js, Redux, Tailwind CSS, GSAP, Material-UI
 - **Tools:** Git, GitHub, Vercel, RESTful APIs, npm, VS Code
 - **Other:** Responsive Design, PWA, Agile Methodologies
 
 ## 📂 Projects
 
-### [Recipe Finder App](https://spoonacular-recipe-finder.vercel.app/)
+### [Recipe Finder App](https://food.sohyl.me/)
 
 - **Technologies:** Next.js, Tailwind CSS, Spoonacular API
 - **Description:** An advanced recipe finder application featuring real-time search, filtering, and responsive design.
 - **Role:** Designed and implemented the front-end architecture; integrated the Spoonacular API for dynamic data fetching.
 
-### [Personal Portfolio](https://soheylashena.github.io/)
+### [Personal Portfolio](https://sohyl.me/)
 
 - **Technologies:** React.js, TypeScript, CSS Modules
 - **Description:** A personal portfolio showcasing projects, resume, and a contact form with API-based functionalities.
