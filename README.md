@@ -16,25 +16,6 @@ I'm a **Front-End Developer** with 2 year of professional experience specializin
 - **Tools:** Git, GitHub, Vercel, RESTful APIs, npm, VS Code
 - **Other:** Responsive Design, PWA, Agile Methodologies
 
-## 📂 Projects
-
-### [Recipe Finder App](https://food.sohyl.me/)
-
-- **Technologies:** Next.js, Tailwind CSS, Spoonacular API
-- **Description:** An advanced recipe finder application featuring real-time search, filtering, and responsive design.
-- **Role:** Designed and implemented the front-end architecture; integrated the Spoonacular API for dynamic data fetching.
-
-### [Personal Portfolio](https://sohyl.me/)
-
-- **Technologies:** React.js, TypeScript, CSS Modules
-- **Description:** A personal portfolio showcasing projects, resume, and a contact form with API-based functionalities.
-- **Role:** Designed and developed the portfolio from scratch with an emphasis on responsive design.
-
-### [Task Manager and To-Do List](https://soheylashena.github.io/TooDoo)
-
-- **Technologies:** React.js, Redux, PWA
-- **Description:** A modern task manager with advanced state management and offline-first features as a progressive web app.
-- **Role:** Led the front-end development and integrated Redux for efficient state management.
 
 ## 📈 GitHub Stats
 
@@ -44,7 +25,7 @@ I'm a **Front-End Developer** with 2 year of professional experience specializin
 
 - **Email:** [Sashena203@gmail.com](mailto:Sashena203@gmail.com)
 - **LinkedIn:** [Link](https://www.linkedin.com/in/soheyl-ashena)
-- **Portfolio:** [Link](https://SoheylAshena.github.io)
+- **Website:** [Link](https://Sohyl.me)
 
 <!-- Add any additional sections like blog posts, awards, or fun facts here -->
 
