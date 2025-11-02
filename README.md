@@ -1,15 +1,15 @@
-# Hi there, I'm Soheyl Ashena 👋
+# Hi there, I'm Soheyl Ashena 
 
 I'm a **Front-End Developer** with 2 year of professional experience specializing in building responsive, high-performance web applications using **React**, **Next.js**, and other modern libraries.
 
-## 🔥 About Me
+##  About Me
 
 - Passionate about creating seamless and engaging user experiences.
 - Strong foundation in JavaScript, TypeScript, and modern web development frameworks.
 - Always eager to learn and take on new challenges.
 - Open to collaborating on exciting projects and contributing to open-source.
 
-## 🚀 Tech Stack
+##  Tech Stack
 
 - **Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS3
 - **Frameworks & Libraries:** React.js, Next.js, Redux, Tailwind CSS, GSAP, Material-UI
@@ -17,7 +17,7 @@ I'm a **Front-End Developer** with 2 year of professional experience specializin
 - **Other:** Responsive Design, PWA, Agile Methodologies
 
 
-## 🤝 Connect with Me
+##  Connect with Me
 
 - **Email:** [Sashena203@gmail.com](mailto:Sashena203@gmail.com)
 - **LinkedIn:** [Link](https://www.linkedin.com/in/soheyl-ashena)
