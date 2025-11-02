@@ -17,10 +17,6 @@ I'm a **Front-End Developer** with 2 year of professional experience specializin
 - **Other:** Responsive Design, PWA, Agile Methodologies
 
 
-## 📈 GitHub Stats
-
-[![Soheyl's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoheylAshena&show_icons=true&theme=radical)](https://github.com/SoheylAshena)
-
 ## 🤝 Connect with Me
 
 - **Email:** [Sashena203@gmail.com](mailto:Sashena203@gmail.com)
